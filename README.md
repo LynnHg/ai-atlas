@@ -65,8 +65,9 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 ## 最近更新
 
-| 日期 | 类型 | 主题 | 标题 |
-|------|------|------|------|
+| 发布日期 | 类型 | 主题 | 标题 |
+|----------|------|------|------|
+| 2025-11-24 | article | agent | [Claude 高级工具使用：搜索、编程式调用与示例](articles/agent/advanced-tool-use.md) |
 | 2025-09-29 | article | agent | [高效的 AI Agent 上下文工程](articles/agent/context-engineering-for-agents.md) |
 | 2025-06-13 | article | agent | [Anthropic 多 Agent 研究系统](articles/agent/multi-agent-research-system.md) |
 | 2024-12-19 | article | agent | [构建高效 AI Agent：模式图谱与实践指南](articles/agent/building-effective-agents.md) |
