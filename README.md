@@ -67,10 +67,23 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 | 发布日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
+| 2026-01-03 | article | agent | [LLM Agent 漫游指南：从零构建编码 Agent 的实战经验](articles/agent/hitchhikers-guide-to-llm-agent.md) |
+| 2025-12-13 | article | mcp | [Skills vs MCP：为什么我把所有 MCP 迁移到了 Skills](articles/mcp/skills-vs-mcp.md) |
+| 2025-12-10 | article | fine-tuning | [rLLM SDK：无需改代码即可训练任何 Agent 程序](articles/fine-tuning/rllm-sdk-agent-rl-training.md) |
+| 2025-11-26 | article | agent | [长时运行 Agent 的有效编排](articles/agent/long-running-agent-harness.md) |
 | 2025-11-24 | article | agent | [Claude 高级工具使用：搜索、编程式调用与示例](articles/agent/advanced-tool-use.md) |
+| 2025-10-01 | article | app-dev | [Claude Code 最佳实践：从环境配置到多会话并行](articles/app-dev/claude-code-best-practices.md) |
 | 2025-11-04 | article | mcp | [代码执行 + MCP：构建更高效的 Agent](articles/mcp/code-execution-with-mcp.md) |
 | 2025-10-20 | article | agent | [Claude Code 沙箱安全：让 Agent 更安全也更自主](articles/agent/claude-code-sandboxing.md) |
+| 2025-10-15 | article | agent | [Manus 的上下文工程实践](articles/agent/manus-context-engineering.md) |
+| 2025-10-12 | article | agent | [Agent 2.0：从浅层循环到深层 Agent](articles/agent/shallow-to-deep-agents.md) |
 | 2025-10-16 | article | agent | [Agent Skills：用文件和文件夹装备 Agent](articles/agent/agent-skills.md) |
+| 2025-09-29 | article | agent | [用 Claude Agent SDK 构建 Agent](articles/agent/claude-agent-sdk.md) |
 | 2025-09-29 | article | agent | [高效的 AI Agent 上下文工程](articles/agent/context-engineering-for-agents.md) |
+| 2025-09-11 | article | agent | [为 Agent 编写高效工具——用 Agent 来优化](articles/agent/writing-tools-for-agents.md) |
+| 2025-07-30 | article | agent | [AI 工程中的 Bitter Lesson：添加结构，然后移除它](articles/agent/bitter-lesson-for-ai-engineering.md) |
+| 2025-06-23 | article | agent | [Agent 上下文工程策略：Write / Select / Compress / Isolate](articles/agent/context-engineering-strategies.md) |
 | 2025-06-13 | article | agent | [Anthropic 多 Agent 研究系统](articles/agent/multi-agent-research-system.md) |
 | 2024-12-19 | article | agent | [构建高效 AI Agent：模式图谱与实践指南](articles/agent/building-effective-agents.md) |
+| 2025-10-19 | paper | ml-theory | [从 Pipeline 到 Model-native：Agent AI 范式转变综述](articles/ml-theory/pipeline-to-model-native-agents.md) |
+| 2025-03-19 | article | ml-theory | [衡量 AI 完成长任务的能力：指数增长趋势与预测](articles/ml-theory/measuring-ai-long-task-ability.md) |

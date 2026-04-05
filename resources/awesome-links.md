@@ -29,12 +29,24 @@ AI 领域值得关注的学习资源汇总。
 - [Claude Console](https://console.anthropic.com/) — Claude API 控制台
 - [Cursor](https://cursor.com/) — AI 辅助编程 IDE
 - [Vercel AI SDK](https://sdk.vercel.ai/) — AI 应用开发 SDK
+- [Sandbox Runtime](https://github.com/anthropic-experimental/sandbox-runtime) — Anthropic 开源的 Agent 沙箱运行时（文件系统+网络隔离）
+- [Agent Skills 开放标准](https://agentskills.io/) — Agent Skills 跨平台可移植规范
+- [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) — Claude 官方 Agent SDK
+
+## 优秀开源项目
+
+- [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) — MoonshotAI 出品的 CLI Agent，设计良好、代码优雅，值得学习其架构和实现
+- [Deep Agents](https://github.com/langchain-ai/deepagents) — LangChain 的自主 Agent 实现，借鉴 LangGraph 经验，提出的 Middleware 机制是上下文工程的优秀抽象
 
 ## 论文资源
 
 - [arXiv](https://arxiv.org/) — 预印本论文库
 - [Papers With Code](https://paperswithcode.com/) — 论文与代码实现
 - [Semantic Scholar](https://www.semanticscholar.org/) — AI 驱动的论文搜索
+
+## 个人博客
+
+- [Ninehills Blog](https://github.com/ninehills/blog/issues) — AI 技术深度文章，以 GitHub Issues 形式发布，内容涵盖 Agent、LLM 工程等
 
 ## 社区
 
