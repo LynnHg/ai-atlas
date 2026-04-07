@@ -1,4 +1,4 @@
-# AI Learning
+# AI Atlas
 
 个人 AI 技术学习笔记与实践项目，系统性地整理 AI 领域的知识、文章、论文和代码示例。
 
@@ -19,7 +19,7 @@
 ## 内容导航
 
 ```
-ai-learning/
+ai-atlas/
 ├── articles/          # 技术文章阅读笔记
 ├── papers/            # 论文阅读笔记
 ├── courses/           # 课程学习笔记
@@ -67,6 +67,7 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 | 发布日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
+| 2025-11-24 | article | prompt-engineering | [上下文工程 vs. 提示词工程：从 2D 到 3D 的升维](articles/prompt-engineering/context-engineering-vs-prompt-engineering.md) |
 | 2026-01-03 | article | agent | [LLM Agent 漫游指南：从零构建编码 Agent 的实战经验](articles/agent/hitchhikers-guide-to-llm-agent.md) |
 | 2025-12-13 | article | mcp | [Skills vs MCP：为什么我把所有 MCP 迁移到了 Skills](articles/mcp/skills-vs-mcp.md) |
 | 2025-12-10 | article | fine-tuning | [rLLM SDK：无需改代码即可训练任何 Agent 程序](articles/fine-tuning/rllm-sdk-agent-rl-training.md) |

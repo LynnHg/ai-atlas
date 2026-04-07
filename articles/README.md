@@ -6,6 +6,7 @@
 
 | 发布日期 | 主题 | 标题 | 来源 |
 |----------|------|------|------|
+| 2025-11-24 | prompt-engineering | [上下文工程 vs. 提示词工程：从 2D 到 3D 的升维](prompt-engineering/context-engineering-vs-prompt-engineering.md) | Port.io |
 | 2026-01-03 | agent | [LLM Agent 漫游指南：从零构建编码 Agent 的实战经验](agent/hitchhikers-guide-to-llm-agent.md) | Saurabh Alone Blog |
 | 2025-12-13 | mcp | [Skills vs MCP：为什么我把所有 MCP 迁移到了 Skills](mcp/skills-vs-mcp.md) | Armin Ronacher Blog |
 | 2025-12-10 | fine-tuning | [rLLM SDK：无需改代码即可训练任何 Agent 程序](fine-tuning/rllm-sdk-agent-rl-training.md) | rLLM Project |
