@@ -86,5 +86,5 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 | 2025-06-23 | article | agent | [Agent 上下文工程策略：Write / Select / Compress / Isolate](articles/agent/context-engineering-strategies.md) |
 | 2025-06-13 | article | agent | [Anthropic 多 Agent 研究系统](articles/agent/multi-agent-research-system.md) |
 | 2024-12-19 | article | agent | [构建高效 AI Agent：模式图谱与实践指南](articles/agent/building-effective-agents.md) |
-| 2025-10-19 | paper | ml-theory | [从 Pipeline 到 Model-native：Agent AI 范式转变综述](articles/ml-theory/pipeline-to-model-native-agents.md) |
+| 2025-10-19 | paper | ml-theory | [从 Pipeline 到 Model-native：Agent AI 范式转变综述](papers/ml-theory/pipeline-to-model-native-agents.md) |
 | 2025-03-19 | article | ml-theory | [衡量 AI 完成长任务的能力：指数增长趋势与预测](articles/ml-theory/measuring-ai-long-task-ability.md) |
