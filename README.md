@@ -65,26 +65,27 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 ## 最近更新
 
-| 发布日期 | 类型 | 主题 | 标题 |
+> 仅展示最近 20 条，完整索引见 [articles/](articles/) 和 [papers/](papers/)。
+
+| 添加日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
-| 2025-11-24 | article | prompt-engineering | [上下文工程 vs. 提示词工程：从 2D 到 3D 的升维](articles/prompt-engineering/context-engineering-vs-prompt-engineering.md) |
-| 2026-01-03 | article | agent | [LLM Agent 漫游指南：从零构建编码 Agent 的实战经验](articles/agent/hitchhikers-guide-to-llm-agent.md) |
-| 2025-12-13 | article | mcp | [Skills vs MCP：为什么我把所有 MCP 迁移到了 Skills](articles/mcp/skills-vs-mcp.md) |
-| 2025-12-10 | article | fine-tuning | [rLLM SDK：无需改代码即可训练任何 Agent 程序](articles/fine-tuning/rllm-sdk-agent-rl-training.md) |
-| 2025-11-26 | article | agent | [长时运行 Agent 的有效编排](articles/agent/long-running-agent-harness.md) |
-| 2025-11-24 | article | agent | [Claude 高级工具使用：搜索、编程式调用与示例](articles/agent/advanced-tool-use.md) |
-| 2025-10-01 | article | app-dev | [Claude Code 最佳实践：从环境配置到多会话并行](articles/app-dev/claude-code-best-practices.md) |
-| 2025-11-04 | article | mcp | [代码执行 + MCP：构建更高效的 Agent](articles/mcp/code-execution-with-mcp.md) |
-| 2025-10-20 | article | agent | [Claude Code 沙箱安全：让 Agent 更安全也更自主](articles/agent/claude-code-sandboxing.md) |
-| 2025-10-15 | article | agent | [Manus 的上下文工程实践](articles/agent/manus-context-engineering.md) |
-| 2025-10-12 | article | agent | [Agent 2.0：从浅层循环到深层 Agent](articles/agent/shallow-to-deep-agents.md) |
-| 2025-10-16 | article | agent | [Agent Skills：用文件和文件夹装备 Agent](articles/agent/agent-skills.md) |
-| 2025-09-29 | article | agent | [用 Claude Agent SDK 构建 Agent](articles/agent/claude-agent-sdk.md) |
-| 2025-09-29 | article | agent | [高效的 AI Agent 上下文工程](articles/agent/context-engineering-for-agents.md) |
-| 2025-09-11 | article | agent | [为 Agent 编写高效工具——用 Agent 来优化](articles/agent/writing-tools-for-agents.md) |
-| 2025-07-30 | article | agent | [AI 工程中的 Bitter Lesson：添加结构，然后移除它](articles/agent/bitter-lesson-for-ai-engineering.md) |
-| 2025-06-23 | article | agent | [Agent 上下文工程策略：Write / Select / Compress / Isolate](articles/agent/context-engineering-strategies.md) |
-| 2025-06-13 | article | agent | [Anthropic 多 Agent 研究系统](articles/agent/multi-agent-research-system.md) |
-| 2024-12-19 | article | agent | [构建高效 AI Agent：模式图谱与实践指南](articles/agent/building-effective-agents.md) |
-| 2025-10-19 | paper | ml-theory | [从 Pipeline 到 Model-native：Agent AI 范式转变综述](papers/ml-theory/pipeline-to-model-native-agents.md) |
-| 2025-03-19 | article | ml-theory | [衡量 AI 完成长任务的能力：指数增长趋势与预测](articles/ml-theory/measuring-ai-long-task-ability.md) |
+| 2026-04-07 | article | agent | [上下文焦虑：AI Agent 如何因感知到的上下文窗口而"恐慌"](articles/agent/context-anxiety-ai-agents.md) |
+| 2026-04-07 | paper | prompt-engineering | [上下文工程 2.0：上下文工程的上下文](papers/prompt-engineering/context-engineering-2.0.md) |
+| 2026-04-07 | article | prompt-engineering | [上下文工程 vs. 提示词工程：从 2D 到 3D 的升维](articles/prompt-engineering/context-engineering-vs-prompt-engineering.md) |
+| 2026-04-05 | article | agent | [LLM Agent 漫游指南：从零构建编码 Agent 的实战经验](articles/agent/hitchhikers-guide-to-llm-agent.md) |
+| 2026-04-05 | article | mcp | [Skills vs MCP：为什么我把所有 MCP 迁移到了 Skills](articles/mcp/skills-vs-mcp.md) |
+| 2026-04-05 | article | fine-tuning | [rLLM SDK：无需改代码即可训练任何 Agent 程序](articles/fine-tuning/rllm-sdk-agent-rl-training.md) |
+| 2026-04-05 | article | agent | [长时运行 Agent 的有效编排](articles/agent/long-running-agent-harness.md) |
+| 2026-04-05 | paper | ml-theory | [从 Pipeline 到 Model-native：Agent AI 范式转变综述](papers/ml-theory/pipeline-to-model-native-agents.md) |
+| 2026-04-05 | article | ml-theory | [衡量 AI 完成长任务的能力：指数增长趋势与预测](articles/ml-theory/measuring-ai-long-task-ability.md) |
+| 2026-04-05 | article | agent | [Manus 的上下文工程实践](articles/agent/manus-context-engineering.md) |
+| 2026-04-05 | article | agent | [为 Agent 编写高效工具——用 Agent 来优化](articles/agent/writing-tools-for-agents.md) |
+| 2026-04-05 | article | agent | [Claude Code 沙箱安全：让 Agent 更安全也更自主](articles/agent/claude-code-sandboxing.md) |
+| 2026-04-05 | article | agent | [Agent Skills：用文件和文件夹装备 Agent](articles/agent/agent-skills.md) |
+| 2026-04-05 | article | agent | [Claude 高级工具使用：搜索、编程式调用与示例](articles/agent/advanced-tool-use.md) |
+| 2026-04-05 | article | mcp | [代码执行 + MCP：构建更高效的 Agent](articles/mcp/code-execution-with-mcp.md) |
+| 2026-04-05 | article | app-dev | [Claude Code 最佳实践：从环境配置到多会话并行](articles/app-dev/claude-code-best-practices.md) |
+| 2026-04-05 | article | agent | [Agent 2.0：从浅层循环到深层 Agent](articles/agent/shallow-to-deep-agents.md) |
+| 2026-04-05 | article | agent | [高效的 AI Agent 上下文工程](articles/agent/context-engineering-for-agents.md) |
+| 2026-04-05 | article | agent | [用 Claude Agent SDK 构建 Agent](articles/agent/claude-agent-sdk.md) |
+| 2026-04-05 | article | agent | [AI 工程中的 Bitter Lesson：添加结构，然后移除它](articles/agent/bitter-lesson-for-ai-engineering.md) |
