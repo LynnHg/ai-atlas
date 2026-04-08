@@ -6,6 +6,8 @@
 
 | 发布日期 | 主题 | 标题 | 来源 |
 |----------|------|------|------|
+| 2024-12-01 | agent | [Amazon Bedrock 多 Agent 协作：Supervisor 模式的全托管实现](agent/bedrock-multi-agent-collaboration.md) | AWS News Blog |
+| 2025-12-04 | agent | [构建高效的上下文感知多 Agent 生产框架](agent/efficient-context-aware-multi-agent-framework.md) | Google Developers Blog |
 | 2024-12-01 | ml-theory | [Gemini 长上下文完全指南：从百万 Token 到多模态应用](ml-theory/gemini-long-context-guide.md) | Google Cloud |
 | 2025-10-03 | agent | [上下文焦虑：AI Agent 如何因感知到的上下文窗口而"恐慌"](agent/context-anxiety-ai-agents.md) | Inkeep Blog |
 | 2025-07-18 | agent | [AI Agent 的上下文工程：构建 Manus 的经验教训](agent/manus-context-engineering-official.md) | Manus Blog |

@@ -69,6 +69,8 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 | 添加日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
+| 2026-04-08 | article | agent | [Amazon Bedrock 多 Agent 协作：Supervisor 模式的全托管实现](articles/agent/bedrock-multi-agent-collaboration.md) |
+| 2026-04-08 | article | agent | [构建高效的上下文感知多 Agent 生产框架](articles/agent/efficient-context-aware-multi-agent-framework.md) |
 | 2026-04-07 | article | ml-theory | [Gemini 长上下文完全指南：从百万 Token 到多模态应用](articles/ml-theory/gemini-long-context-guide.md) |
 | 2026-04-07 | article | agent | [AI Agent 的上下文工程：构建 Manus 的经验教训](articles/agent/manus-context-engineering-official.md) |
 | 2026-04-07 | article | agent | [深入理解 Agent 的上下文工程](articles/agent/deep-dive-context-engineering-agents.md) |
@@ -88,4 +90,3 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 | 2026-04-05 | article | agent | [Claude 高级工具使用：搜索、编程式调用与示例](articles/agent/advanced-tool-use.md) |
 | 2026-04-05 | article | mcp | [代码执行 + MCP：构建更高效的 Agent](articles/mcp/code-execution-with-mcp.md) |
 | 2026-04-05 | article | app-dev | [Claude Code 最佳实践：从环境配置到多会话并行](articles/app-dev/claude-code-best-practices.md) |
-| 2026-04-05 | article | agent | [Agent 2.0：从浅层循环到深层 Agent](articles/agent/shallow-to-deep-agents.md) |
