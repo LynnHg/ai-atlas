@@ -69,6 +69,10 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 | 添加日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
+| 2026-04-08 | article | agent | [为什么多 Agent 系统需要记忆工程](articles/agent/memory-engineering-for-multi-agent-systems.md) |
+| 2026-04-08 | article | agent | [不要构建多 Agent 系统](articles/agent/dont-build-multi-agents.md) |
+| 2026-04-08 | article | agent | [Manus 自主 AI Agent 技术深度分析与开源复现](articles/agent/manus-technical-analysis-replication.md) |
+| 2026-04-08 | article | agent | [OpenAI 新 Agent 平台：Responses API、Web Search、Computer Use 与 Agents SDK](articles/agent/openai-agents-platform.md) |
 | 2026-04-08 | article | agent | [Amazon Bedrock 多 Agent 协作：Supervisor 模式的全托管实现](articles/agent/bedrock-multi-agent-collaboration.md) |
 | 2026-04-08 | article | agent | [构建高效的上下文感知多 Agent 生产框架](articles/agent/efficient-context-aware-multi-agent-framework.md) |
 | 2026-04-07 | article | ml-theory | [Gemini 长上下文完全指南：从百万 Token 到多模态应用](articles/ml-theory/gemini-long-context-guide.md) |
@@ -86,7 +90,3 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 | 2026-04-05 | article | agent | [Manus 的上下文工程实践](articles/agent/manus-context-engineering.md) |
 | 2026-04-05 | article | agent | [为 Agent 编写高效工具——用 Agent 来优化](articles/agent/writing-tools-for-agents.md) |
 | 2026-04-05 | article | agent | [Claude Code 沙箱安全：让 Agent 更安全也更自主](articles/agent/claude-code-sandboxing.md) |
-| 2026-04-05 | article | agent | [Agent Skills：用文件和文件夹装备 Agent](articles/agent/agent-skills.md) |
-| 2026-04-05 | article | agent | [Claude 高级工具使用：搜索、编程式调用与示例](articles/agent/advanced-tool-use.md) |
-| 2026-04-05 | article | mcp | [代码执行 + MCP：构建更高效的 Agent](articles/mcp/code-execution-with-mcp.md) |
-| 2026-04-05 | article | app-dev | [Claude Code 最佳实践：从环境配置到多会话并行](articles/app-dev/claude-code-best-practices.md) |
