@@ -6,7 +6,10 @@
 
 | 发布日期 | 主题 | 标题 | 来源 |
 |----------|------|------|------|
+| 2024-12-01 | ml-theory | [Gemini 长上下文完全指南：从百万 Token 到多模态应用](ml-theory/gemini-long-context-guide.md) | Google Cloud |
 | 2025-10-03 | agent | [上下文焦虑：AI Agent 如何因感知到的上下文窗口而"恐慌"](agent/context-anxiety-ai-agents.md) | Inkeep Blog |
+| 2025-07-18 | agent | [AI Agent 的上下文工程：构建 Manus 的经验教训](agent/manus-context-engineering-official.md) | Manus Blog |
+| 2025-09-24 | agent | [深入理解 Agent 的上下文工程](agent/deep-dive-context-engineering-agents.md) | Galileo AI Blog |
 | 2025-11-24 | prompt-engineering | [上下文工程 vs. 提示词工程：从 2D 到 3D 的升维](prompt-engineering/context-engineering-vs-prompt-engineering.md) | Port.io |
 | 2026-01-03 | agent | [LLM Agent 漫游指南：从零构建编码 Agent 的实战经验](agent/hitchhikers-guide-to-llm-agent.md) | Saurabh Alone Blog |
 | 2025-12-13 | mcp | [Skills vs MCP：为什么我把所有 MCP 迁移到了 Skills](mcp/skills-vs-mcp.md) | Armin Ronacher Blog |

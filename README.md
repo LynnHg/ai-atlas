@@ -69,6 +69,9 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 | 添加日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
+| 2026-04-07 | article | ml-theory | [Gemini 长上下文完全指南：从百万 Token 到多模态应用](articles/ml-theory/gemini-long-context-guide.md) |
+| 2026-04-07 | article | agent | [AI Agent 的上下文工程：构建 Manus 的经验教训](articles/agent/manus-context-engineering-official.md) |
+| 2026-04-07 | article | agent | [深入理解 Agent 的上下文工程](articles/agent/deep-dive-context-engineering-agents.md) |
 | 2026-04-07 | article | agent | [上下文焦虑：AI Agent 如何因感知到的上下文窗口而"恐慌"](articles/agent/context-anxiety-ai-agents.md) |
 | 2026-04-07 | paper | prompt-engineering | [上下文工程 2.0：上下文工程的上下文](papers/prompt-engineering/context-engineering-2.0.md) |
 | 2026-04-07 | article | prompt-engineering | [上下文工程 vs. 提示词工程：从 2D 到 3D 的升维](articles/prompt-engineering/context-engineering-vs-prompt-engineering.md) |
@@ -86,6 +89,3 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 | 2026-04-05 | article | mcp | [代码执行 + MCP：构建更高效的 Agent](articles/mcp/code-execution-with-mcp.md) |
 | 2026-04-05 | article | app-dev | [Claude Code 最佳实践：从环境配置到多会话并行](articles/app-dev/claude-code-best-practices.md) |
 | 2026-04-05 | article | agent | [Agent 2.0：从浅层循环到深层 Agent](articles/agent/shallow-to-deep-agents.md) |
-| 2026-04-05 | article | agent | [高效的 AI Agent 上下文工程](articles/agent/context-engineering-for-agents.md) |
-| 2026-04-05 | article | agent | [用 Claude Agent SDK 构建 Agent](articles/agent/claude-agent-sdk.md) |
-| 2026-04-05 | article | agent | [AI 工程中的 Bitter Lesson：添加结构，然后移除它](articles/agent/bitter-lesson-for-ai-engineering.md) |
