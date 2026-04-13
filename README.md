@@ -69,6 +69,7 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 | 添加日期 | 类型 | 主题 | 标题 |
 |----------|------|------|------|
+| 2026-04-13 | article | agent | [扩展 Managed Agents：将大脑与双手解耦](articles/agent/managed-agents-scaling.md) |
 | 2026-04-08 | article | agent | [为什么多 Agent 系统需要记忆工程](articles/agent/memory-engineering-for-multi-agent-systems.md) |
 | 2026-04-08 | article | agent | [不要构建多 Agent 系统](articles/agent/dont-build-multi-agents.md) |
 | 2026-04-08 | article | agent | [Manus 自主 AI Agent 技术深度分析与开源复现](articles/agent/manus-technical-analysis-replication.md) |
@@ -89,4 +90,3 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 | 2026-04-05 | article | ml-theory | [衡量 AI 完成长任务的能力：指数增长趋势与预测](articles/ml-theory/measuring-ai-long-task-ability.md) |
 | 2026-04-05 | article | agent | [Manus 的上下文工程实践](articles/agent/manus-context-engineering.md) |
 | 2026-04-05 | article | agent | [为 Agent 编写高效工具——用 Agent 来优化](articles/agent/writing-tools-for-agents.md) |
-| 2026-04-05 | article | agent | [Claude Code 沙箱安全：让 Agent 更安全也更自主](articles/agent/claude-code-sandboxing.md) |

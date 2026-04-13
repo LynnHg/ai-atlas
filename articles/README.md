@@ -6,6 +6,7 @@
 
 | 发布日期 | 主题 | 标题 | 来源 |
 |----------|------|------|------|
+| 2026-04-13 | agent | [扩展 Managed Agents：将大脑与双手解耦](agent/managed-agents-scaling.md) | Anthropic Engineering Blog |
 | 2025-03-11 | agent | [OpenAI 新 Agent 平台：Responses API、Web Search、Computer Use 与 Agents SDK](agent/openai-agents-platform.md) | Latent Space |
 | 2025-03-11 | agent | [Manus 自主 AI Agent 技术深度分析与开源复现](agent/manus-technical-analysis-replication.md) | GitHub Gist |
 | 2025-09-11 | agent | [为什么多 Agent 系统需要记忆工程](agent/memory-engineering-for-multi-agent-systems.md) | MongoDB Blog |
