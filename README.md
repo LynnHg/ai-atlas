@@ -1,6 +1,6 @@
 # AI Atlas
 
-个人 AI 技术学习笔记与实践项目，系统性地整理 AI 领域的知识、文章、论文和代码示例。
+持续追踪 AI 前沿技术、工程方法与产品实践，把零散信息沉淀成可复用的知识地图与实战笔记。
 
 ---
 
@@ -20,7 +20,8 @@
 
 ```
 ai-atlas/
-├── articles/          # 技术文章阅读笔记
+├── articles/          # 技术文章、精选推文与资讯快讯
+│   └── news/          # AI 精选推文 / 行业快讯
 ├── papers/            # 论文阅读笔记
 ├── courses/           # 课程学习笔记
 ├── concepts/          # 概念总结 / 知识卡片
@@ -31,6 +32,12 @@ ai-atlas/
 ### [articles/](articles/) — 技术文章阅读笔记
 
 按主题分类的技术博客、工程文章阅读笔记。每篇笔记包含原文链接、核心要点提炼和个人思考。
+
+其中 `articles/news/` 用于收录 AI 领域的精选推文、产品动态和每日快讯，适合记录当天值得跟进的信息流。
+
+### [articles/news/](articles/news/) — 精选推文 / AI 快讯
+
+按日期沉淀精选推文、行业动态和产品发布摘要，便于快速回看最近发生的重要信息。
 
 ### [papers/](papers/) — 论文阅读笔记
 
@@ -65,6 +72,8 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 
 ## 最近更新
 
+### 学习笔记
+
 > 仅展示最近 20 条，完整索引见 [articles/](articles/) 和 [papers/](papers/)。
 
 | 添加日期 | 类型 | 主题 | 标题 |
@@ -90,3 +99,11 @@ Prompt 模板、MCP 工具配置、优质学习资源链接等可复用的参考
 | 2026-04-05 | article | ml-theory | [衡量 AI 完成长任务的能力：指数增长趋势与预测](articles/ml-theory/measuring-ai-long-task-ability.md) |
 | 2026-04-05 | article | agent | [Manus 的上下文工程实践](articles/agent/manus-context-engineering.md) |
 | 2026-04-05 | article | agent | [为 Agent 编写高效工具——用 Agent 来优化](articles/agent/writing-tools-for-agents.md) |
+
+### 推文更新
+
+> 展示最近整理的精选推文 / AI 快讯，完整内容见 [articles/news/](articles/news/)。
+
+| 更新日期 | 类型 | 标题 |
+|----------|------|------|
+| 2026-04-16 | digest | [AI Builders Digest — 2026年4月16日](articles/news/ai-digest-2026-04-16.md) |
